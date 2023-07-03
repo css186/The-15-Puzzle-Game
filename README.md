@@ -2,7 +2,7 @@
 Final Project of ELENGX436.2: Java: Discovering Its Power by UC Berkeley Extension
 
 ## Course Duration
-Took the course on **2023/01/21** and finished it on **2023/02/15**. **Final Score: 99.1/100 (Grade A)**
+Took the course on **2023/01/21** and finished it on **2023/02/15**. **Final Score: 99.2/100 (Grade A)**
 
 ## Project Overview
 The ultimate goal of this final project is to successfully develop a logically correct, well-functioned, cross-platform portable, and independently executable 15 Puzzle game.
